@@ -25,7 +25,7 @@ I aim to solve one problem per day, and as I progress, this section will serve a
 | Day  | Problem Name         | Solution Link            |
 |------|----------------------|--------------------------|
 | Day 1| Student attendance record-1            | [Day 1 Solution](https://leetcode.com/problems/student-attendance-record-i/solutions/6080325/recursive-racket-solution-in-o-n-time) |
-| Day 2| Reverse Linked List  | [Day 2 Solution](./solutions/day_02/reverse_linked_list.rkt) |
+| Day 2| Valid Anagram  | [Day 2 Solution](https://leetcode.com/problems/valid-anagram/solutions/6089238/recursive-racket-solution-in-o-n-log-n-time) |
 | ...  | ...                  | ...                      |
 
 ## Why Racket?
