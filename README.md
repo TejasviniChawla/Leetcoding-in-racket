@@ -26,7 +26,7 @@ I aim to solve one problem per day, and as I progress, this section will serve a
 |------|----------------------|--------------------------|
 | Day 1| Student attendance record-1            | [Day 1 Solution](https://leetcode.com/problems/student-attendance-record-i/solutions/6080325/recursive-racket-solution-in-o-n-time) |
 | Day 2| Valid Anagram  | [Day 2 Solution](https://leetcode.com/problems/valid-anagram/solutions/6089238/recursive-racket-solution-in-o-n-log-n-time) |
-| ...  | ...                  | ...                      |
+| Day 3  | Invert Binary Tree | [Day 3 Solution](https://leetcode.com/problems/invert-binary-tree/solutions/6095843/recursive-solution-in-o-n-time)|
 
 ## Why Racket?
 Racket is a great language for functional programming, and I’ve chosen it for this challenge because of its unique approach to solving problems. It’s an opportunity to deepen my understanding of functional paradigms while tackling algorithmic challenges.
